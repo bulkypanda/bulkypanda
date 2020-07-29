@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 style="text-align: center;" align="center"> Yo, whats poppin! XD</h1> <br>
+<h4 style="text-align: center;" align="center"> I am Arya Gummadi, a freshman at Interlake High School, WA, US. 👌 </h4>
 
-<!--
-**bulkypanda/bulkypanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ‎<p align="center">
+    ![bulkypanda's github stats](https://github-readme-stats.vercel.app/api?username=bulkypanda&show_icons=true&theme=tokyonight&count_private=true)
+   </p>
+ 
+<h1 style="text-align: center;" align="center"> Projects </h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ‎<p align="center">
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bulkypanda&repo=RandyDev)](https://github.com/bulkypanda/RandyDev)
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bulkypanda&repo=pyhydrogen)](https://github.com/bulkypanda/pyhydrogen)
+  </p>
