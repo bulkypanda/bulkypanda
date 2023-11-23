@@ -1,5 +1,5 @@
 
-<h1 align="center">hi, i'm bulkypanda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">hi, i'm [bulkypanda](https://bulkypanda.is-a.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Encode+Sans&duration=3000&pause=1000&color=E8E3D3&background=4B2E83&center=true&vCenter=true&width=435&lines=Computer+Science+%40+University+of+Washington;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
@@ -59,7 +59,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 GitHub Stats (Expand to View) 
 
 
 <details> 
@@ -75,7 +75,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/bulkypanda"><img alt="bulkypanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bulkypanda&custom_title=bulkypanda's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/bulkypanda"><img alt="bulkypanda's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bulkypanda&custom_title=bulkypanda's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
