@@ -84,7 +84,6 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pbf7v0d4a5ogt5wj0uslehv7h&cover_image=true&theme=novatorem&show_offline=false&background_color=d21414&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pbf7v0d4a5ogt5wj0uslehv7h&redirect=true)
 	<a href="mailto:aryagummadi@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/bulkypanda"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/arya-gummadi" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
