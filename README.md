@@ -47,7 +47,6 @@
   <br/>
   <div align="center">
     <img alt="bulkypanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bulkypanda&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulkypanda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="192px"/>
   </div>
 </details>
 
