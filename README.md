@@ -12,7 +12,7 @@
 
 ## 🔥 Streak Stats
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulkypanda&theme=tokyonight&hide_border=true" alt="bulkypanda"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=bulkypanda&theme=tokyonight&hide_border=true" alt="bulkypanda"/>
 </div>
 
 ## 🛠️ My Tech Stack
